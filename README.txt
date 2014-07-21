@@ -1,7 +1,7 @@
 Traffic-Detector
 ================
 
-A Deep Packet Inspection application that provides protocol recognition based on Machine Learning
+A Deep Packet Inspection application that provides encrypted protocol recognition based on Machine Learning
 
 This project implements packet-based encrypted traffic classification.
 In particular we are interested in analyzing traffic from six different
