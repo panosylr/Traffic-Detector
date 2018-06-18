@@ -1,3 +1,4 @@
+---
 Traffic-Detector
 ================
 
@@ -26,3 +27,4 @@ classifications. C4.5 algorithm proved the most
 accurate classifier for our multiclass dataset. For this reason we 
 implemented a system for real time encrypted traffic classification
 based on the C4.5 Decision Tree and a fixed upper bound of time for traffic sampling.
+---
