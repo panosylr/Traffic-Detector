@@ -1,8 +1,8 @@
 ---
 Traffic-Detector
+=================
 
-
-A Deep Packet Inspection application that provides encrypted protocol recognition based on Machine Learning
+A Deep Packet Inspection application that provides encrypted protocol recognition based on Machine Learning.
 
 This project implements packet-based encrypted traffic classification.
 In particular we are interested in analyzing traffic from six different
@@ -27,4 +27,5 @@ classifications. C4.5 algorithm proved the most
 accurate classifier for our multiclass dataset. For this reason we 
 implemented a system for real time encrypted traffic classification
 based on the C4.5 Decision Tree and a fixed upper bound of time for traffic sampling.
+
 ---
