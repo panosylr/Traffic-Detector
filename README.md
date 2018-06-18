@@ -1,6 +1,6 @@
 ---
 Traffic-Detector
-================
+
 
 A Deep Packet Inspection application that provides encrypted protocol recognition based on Machine Learning
 
